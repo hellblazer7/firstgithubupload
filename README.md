@@ -1,2 +1,2 @@
-# firstgithubupload
+# DESCRIPTION
 my first repository
